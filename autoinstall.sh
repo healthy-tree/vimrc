@@ -16,7 +16,7 @@ install_vimrc () {
     [ -e "~/.vimrc" ] && die "~/.vimrc already exists."
 
     cd "$INSTALL_TO"
-    git clone git://github.com/nvie/vimrc.git
+    git clone git://github.com/healthy-tree/vimrc.git
     cd vimrc
 
     # Download vim plugin bundles
