@@ -142,3 +142,6 @@
 [submodule "vim/pack/nvie/start/vim-nox"]
 	path = vim/pack/nvie/start/vim-nox
 	url = https://github.com/nvie/vim-nox
+[submodule "vim/pack/nvie/start/vim-asciidoctor"]
+	path = vim/pack/nvie/start/vim-asciidoctor
+	url = https://github.com/habamax/vim-asciidoctor.git
